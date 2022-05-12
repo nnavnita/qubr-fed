@@ -70,7 +70,7 @@ export const FileUpload: React.FC<FileUploadProps> = ({
 	height = "100px",
 	backgroundColor = "#fff",
 	image: {
-		url = String | undefined,
+		url = undefined,
 		imageStyle = {
 			height: "inherit",
 		},
