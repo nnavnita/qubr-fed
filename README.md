@@ -1,4 +1,4 @@
-# qubr-bed
+# qubr-fed
 
 Code for the frontend of qubr.io
 
